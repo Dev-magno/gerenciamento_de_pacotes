@@ -515,13 +515,11 @@ Lembre-se de salvar suas configurações após fazer alterações nas configura�
 
 ## Documentação
 
-- **Comandos do Prompt de Comando (cmd) e do Linux**:
-  - [Command Prompt (Microsoft)](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/command-prompt)
+- **Comandos do Prompt de Comando do Linux**:
   - [Linux Documentation (GNU)](https://www.gnu.org/software/bash/manual/html_node/index.html)
 
 - **Comandos do Prompt de Comando e PowerShell do Windows**:
   - [PowerShell Documentation (Microsoft)](https://docs.microsoft.com/en-us/powershell/)
-  - [Command Prompt (Microsoft)](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/command-prompt)
 
 - **Pip**:
   - [Pip Documentation](https://pip.pypa.io/en/stable/)
