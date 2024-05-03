@@ -424,7 +424,7 @@ Certifique-se de substituir `<nome_do_arquivo_ou_diretório>` pelo nome real do 
 
 ## Uso do Black no VSCode
 
-O Visual Studio Code (VSCode) é um editor de código altamente personalizável que oferece suporte a uma ampla variedade de extensões. Você pode integrar o Black ao VSCode para formatar automaticamente o código Python enquanto você escreve. Siga estas etapas para configurar o Black no VSCode:
+Integrando o Black ao VSCode para formatar automaticamente o código Python enquanto escreve. Siga estas etapas:
 
 1. **Instale a Extensão Python**:
    - Se ainda não tiver feito isso, instale a extensão Python para o VSCode. Você pode encontrar a extensão na Visual Studio Code Marketplace ou instalá-la diretamente no VSCode navegando até a aba de extensões e pesquisando por "Python".
@@ -460,7 +460,7 @@ Certifique-se de substituir `<nome_do_arquivo_ou_diretório>` pelo nome real do 
 
 ## Uso do Flake8 no VSCode
 
-O Visual Studio Code (VSCode) é um editor de código altamente personalizável que oferece suporte a uma ampla variedade de extensões. Você pode integrar o flake8 ao VSCode para verificar a conformidade do seu código Python com o estilo PEP 8 e identificar possíveis problemas de código. Siga estas etapas para configurar o flake8 no VSCode:
+Uso do flake8 no VSCode para verificar a conformidade do código Python com o estilo PEP 8 e identificar possíveis problemas de código. Siga estas etapas abaixo:
 
 1. **Instale a Extensão Python**:
    - Se ainda não tiver feito isso, instale a extensão Python para o VSCode. Você pode encontrar a extensão na Visual Studio Code Marketplace ou instalá-la diretamente no VSCode navegando até a aba de extensões e pesquisando por "Python".
@@ -494,7 +494,7 @@ Certifique-se de substituir `<nome_do_arquivo_ou_diretório>` pelo nome real do 
 
 ## Uso do isort no VSCode
 
-O Visual Studio Code (VSCode) é um editor de código altamente personalizável que oferece suporte a uma ampla variedade de extensões. Você pode integrar o isort ao VSCode para organizar automaticamente as importações em seus arquivos Python enquanto você escreve. Siga estas etapas para configurar o isort no VSCode:
+Você pode integrar o isort ao VSCode para organizar automaticamente as importações em seus arquivos Python enquanto você escreve. Siga estas etapas para configurar o isort no VSCode:
 
 1. **Instale a Extensão Python**:
    - Se ainda não tiver feito isso, instale a extensão Python para o VSCode. Você pode encontrar a extensão na Visual Studio Code Marketplace ou instalá-la diretamente no VSCode navegando até a aba de extensões e pesquisando por "Python".
